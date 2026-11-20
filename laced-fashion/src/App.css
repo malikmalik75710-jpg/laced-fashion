@@ -36,7 +36,7 @@ a {
   align-items: center;
   justify-content: space-between;
   border-bottom: 1px solid #eee;
-  background: white;
+  background: black;
 }
 
 .logo {
@@ -132,7 +132,7 @@ a {
   position: absolute;
   bottom: 20px;
   left: 20px;
-  background: white;
+  background: black;
   padding: 13px 17px;
   font-size: 10px;
   font-weight: 800;
@@ -181,7 +181,7 @@ a {
 }
 
 .filter {
-  background: white;
+  background: black;
   border: 1px solid #ddd;
   padding: 11px 20px;
   font-size: 12px;
