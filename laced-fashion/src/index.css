@@ -18,3 +18,5 @@ body {
 button, input {
   font-family: inherit;
 }
+
+body { background-color: #2A0E16 !important; color: white; }
