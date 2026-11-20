@@ -215,7 +215,7 @@ a {
 
 .product-card:hover {
   transform: translateY(-5px);
-  box-shadow: 0 12px 30px #00000010;
+  box-shadow: 0 12px 30px #2A0E1610;
 }
 
 .product-image {
@@ -292,7 +292,7 @@ a {
 }
 
 .cart-section {
-  background: #000000;
+  background: #2A0E16;
 }
 
 .cart-item {
