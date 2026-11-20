@@ -3,10 +3,10 @@ import { useState } from "react";
 import "./App.css";
 
 const products = [
-  { id: 1, name: "Premium White Sneakers", category: "Shoes", price: 4500, old: 6000, image: "https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=700" },
+  { id: 1, name: "Premium #000000 Sneakers", category: "Shoes", price: 4500, old: 6000, image: "https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=700" },
   { id: 2, name: "Classic Street Sneakers", category: "Shoes", price: 5200, old: 6800, image: "https://images.unsplash.com/photo-1495555961986-6d4c1ecb7be3?w=700" },
   { id: 3, name: "Luxury Black Shirt", category: "Shirts", price: 2800, old: 3500, image: "https://images.unsplash.com/photo-1598033129183-c4f50c736f10?w=700" },
-  { id: 4, name: "Casual White Shirt", category: "Shirts", price: 2500, old: 3200, image: "https://images.unsplash.com/photo-1603252109303-2751441dd157?w=700" },
+  { id: 4, name: "Casual #000000 Shirt", category: "Shirts", price: 2500, old: 3200, image: "https://images.unsplash.com/photo-1603252109303-2751441dd157?w=700" },
   { id: 5, name: "Baggy Denim Jeans", category: "Jeans", price: 4200, old: 5500, image: "https://images.unsplash.com/photo-1542272604-787c3835535d?w=700" },
   { id: 6, name: "Streetwear Jacket", category: "Jackets", price: 6500, old: 8000, image: "https://images.unsplash.com/photo-1551028719-00167b16eac5?w=700" },
   { id: 7, name: "Gurkha Style Pants", category: "Pants", price: 3800, old: 4800, image: "https://images.unsplash.com/photo-1473966968600-fa801b869a1a?w=700" },
